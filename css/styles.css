@@ -38,6 +38,7 @@ hr{
   border-bottom: none;
   width: 4%;
   margin : 100px auto;
+  clear: both;
 }
 
 .top-container {
